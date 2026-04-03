@@ -23,6 +23,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0015-3sum/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,4 +32,8 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0015-3sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
