@@ -8,37 +8,27 @@ public:
         if (m < n) return result;
         
         // Frequency arrays for characters (a-z)
-        vector<int> pCount(26, 0);
         vector<int> sCount(26, 0);
-        
-        // Count frequencies in p
-        for (char c : p) {
+        vector<int> pCount(26, 0);
+
+        for(char c : p){
             pCount[c - 'a']++;
         }
-        
-        // Initial window of size n
-        for (int i = 0; i < n; i++) {
+
+        for(int i=0; i<n; i++){
             sCount[s[i] - 'a']++;
         }
-        
-        // Check first window
-        if (pCount == sCount) {
+        if(sCount == pCount){
             result.push_back(0);
         }
-        
-        // Slide the window
-        for (int i = n; i < m; i++) {
-            // Add new character
+
+        for(int i=n; i<m; i++){
             sCount[s[i] - 'a']++;
-            // Remove old character
-            sCount[s[i - n] - 'a']--;
-            
-            // Check if current window is an anagram
-            if (pCount == sCount) {
-                result.push_back(i - n + 1);
+            sCount[s[i-n] - 'a']--;
+            if(sCount == pCount){
+                result.push_back(i-n+1);
             }
         }
-        
         return result;
     }
 };
