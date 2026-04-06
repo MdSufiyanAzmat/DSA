@@ -7,7 +7,7 @@ public:
         int left = 0;
         for(int i=0; i<n; i++){
             char c = s[i];
-            if(m.find(c) != m.end() && m[c] >= left){
+            if(m.find(c) != m.end() ){
                 left = m[c] + 1;
             }
             m[c] = i;
