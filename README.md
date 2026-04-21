@@ -19,6 +19,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ Just for practice!
 | ------- | ------- |
 | [0015-3sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/MdSufiyanAzmat/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
