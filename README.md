@@ -7,6 +7,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MdSufiyanAzmat/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 ## String
@@ -32,6 +33,7 @@ Just for practice!
 | [0015-3sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/MdSufiyanAzmat/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -71,6 +73,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/MdSufiyanAzmat/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
