@@ -8,6 +8,7 @@ Just for practice!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MdSufiyanAzmat/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/MdSufiyanAzmat/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 ## String
@@ -43,6 +44,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0015-3sum/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/MdSufiyanAzmat/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +80,8 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/MdSufiyanAzmat/DSA/tree/main/0054-spiral-matrix/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/MdSufiyanAzmat/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
