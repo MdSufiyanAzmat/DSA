@@ -16,6 +16,7 @@ Just for practice!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MdSufiyanAzmat/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/MdSufiyanAzmat/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/MdSufiyanAzmat/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Dynamic Programming
@@ -85,6 +86,7 @@ Just for practice!
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/MdSufiyanAzmat/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0289-game-of-life](https://github.com/MdSufiyanAzmat/DSA/tree/main/0289-game-of-life/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/MdSufiyanAzmat/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
