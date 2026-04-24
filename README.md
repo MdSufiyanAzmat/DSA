@@ -44,6 +44,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MdSufiyanAzmat/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/MdSufiyanAzmat/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -83,5 +84,6 @@ Just for practice!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MdSufiyanAzmat/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/MdSufiyanAzmat/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
