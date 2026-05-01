@@ -94,6 +94,7 @@ Just for practice!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MdSufiyanAzmat/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MdSufiyanAzmat/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/MdSufiyanAzmat/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -104,4 +105,12 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/MdSufiyanAzmat/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MdSufiyanAzmat/DSA/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MdSufiyanAzmat/DSA/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
