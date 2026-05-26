@@ -13,6 +13,7 @@ Just for practice!
 | [0202-happy-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0202-happy-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ Just for practice!
 | [0657-robot-return-to-origin](https://github.com/MdSufiyanAzmat/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/MdSufiyanAzmat/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
