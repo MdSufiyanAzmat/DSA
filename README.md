@@ -119,4 +119,12 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MdSufiyanAzmat/DSA/tree/main/0002-add-two-numbers/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/MdSufiyanAzmat/DSA/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/MdSufiyanAzmat/DSA/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
