@@ -135,6 +135,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/MdSufiyanAzmat/DSA/tree/main/0155-min-stack/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/MdSufiyanAzmat/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +149,12 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/MdSufiyanAzmat/DSA/tree/main/0456-132-pattern/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/MdSufiyanAzmat/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/MdSufiyanAzmat/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
