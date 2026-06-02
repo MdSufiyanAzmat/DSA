@@ -46,6 +46,7 @@ Just for practice!
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdSufiyanAzmat/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0289-game-of-life](https://github.com/MdSufiyanAzmat/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0456-132-pattern](https://github.com/MdSufiyanAzmat/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -76,6 +77,7 @@ Just for practice!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MdSufiyanAzmat/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/MdSufiyanAzmat/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -162,6 +164,7 @@ Just for practice!
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/MdSufiyanAzmat/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MdSufiyanAzmat/DSA/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1696-jump-game-vi](https://github.com/MdSufiyanAzmat/DSA/tree/main/1696-jump-game-vi/) | Medium |
@@ -172,9 +175,11 @@ Just for practice!
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1696-jump-game-vi](https://github.com/MdSufiyanAzmat/DSA/tree/main/1696-jump-game-vi/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1696-jump-game-vi](https://github.com/MdSufiyanAzmat/DSA/tree/main/1696-jump-game-vi/) | Medium |
 <!---LeetCode Topics End-->
