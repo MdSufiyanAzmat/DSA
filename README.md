@@ -54,6 +54,7 @@ Just for practice!
 | [1004-max-consecutive-ones-iii](https://github.com/MdSufiyanAzmat/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/MdSufiyanAzmat/DSA/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1696-jump-game-vi](https://github.com/MdSufiyanAzmat/DSA/tree/main/1696-jump-game-vi/) | Medium |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/MdSufiyanAzmat/DSA/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -151,6 +152,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/MdSufiyanAzmat/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/MdSufiyanAzmat/DSA/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -177,6 +179,7 @@ Just for practice!
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1696-jump-game-vi](https://github.com/MdSufiyanAzmat/DSA/tree/main/1696-jump-game-vi/) | Medium |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/MdSufiyanAzmat/DSA/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
