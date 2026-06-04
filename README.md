@@ -133,6 +133,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MdSufiyanAzmat/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/MdSufiyanAzmat/DSA/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdSufiyanAzmat/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0202-happy-number/) | Easy |
 ## Recursion
@@ -140,6 +141,7 @@ Just for practice!
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MdSufiyanAzmat/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/MdSufiyanAzmat/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/MdSufiyanAzmat/DSA/tree/main/0050-powx-n/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
