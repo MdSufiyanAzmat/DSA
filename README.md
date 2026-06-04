@@ -53,6 +53,7 @@ Just for practice!
 | [0950-reveal-cards-in-increasing-order](https://github.com/MdSufiyanAzmat/DSA/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MdSufiyanAzmat/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/MdSufiyanAzmat/DSA/tree/main/1014-best-sightseeing-pair/) | Medium |
+| [1499-max-value-of-equation](https://github.com/MdSufiyanAzmat/DSA/tree/main/1499-max-value-of-equation/) | Hard |
 | [1696-jump-game-vi](https://github.com/MdSufiyanAzmat/DSA/tree/main/1696-jump-game-vi/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/MdSufiyanAzmat/DSA/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -82,6 +83,7 @@ Just for practice!
 | [0438-find-all-anagrams-in-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/MdSufiyanAzmat/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1499-max-value-of-equation](https://github.com/MdSufiyanAzmat/DSA/tree/main/1499-max-value-of-equation/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +171,7 @@ Just for practice!
 | [0239-sliding-window-maximum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/MdSufiyanAzmat/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MdSufiyanAzmat/DSA/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1499-max-value-of-equation](https://github.com/MdSufiyanAzmat/DSA/tree/main/1499-max-value-of-equation/) | Hard |
 | [1696-jump-game-vi](https://github.com/MdSufiyanAzmat/DSA/tree/main/1696-jump-game-vi/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -178,11 +181,13 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1499-max-value-of-equation](https://github.com/MdSufiyanAzmat/DSA/tree/main/1499-max-value-of-equation/) | Hard |
 | [1696-jump-game-vi](https://github.com/MdSufiyanAzmat/DSA/tree/main/1696-jump-game-vi/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/MdSufiyanAzmat/DSA/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1499-max-value-of-equation](https://github.com/MdSufiyanAzmat/DSA/tree/main/1499-max-value-of-equation/) | Hard |
 | [1696-jump-game-vi](https://github.com/MdSufiyanAzmat/DSA/tree/main/1696-jump-game-vi/) | Medium |
 <!---LeetCode Topics End-->
