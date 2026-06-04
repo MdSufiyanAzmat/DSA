@@ -43,6 +43,7 @@ Just for practice!
 | [0015-3sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/MdSufiyanAzmat/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/MdSufiyanAzmat/DSA/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdSufiyanAzmat/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -135,6 +136,7 @@ Just for practice!
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MdSufiyanAzmat/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/MdSufiyanAzmat/DSA/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/MdSufiyanAzmat/DSA/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdSufiyanAzmat/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0202-happy-number/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
