@@ -11,6 +11,7 @@ Just for practice!
 | [0138-copy-list-with-random-pointer](https://github.com/MdSufiyanAzmat/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/MdSufiyanAzmat/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -36,6 +37,7 @@ Just for practice!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -49,6 +51,7 @@ Just for practice!
 | [0152-maximum-product-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
 | [0289-game-of-life](https://github.com/MdSufiyanAzmat/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0456-132-pattern](https://github.com/MdSufiyanAzmat/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -74,6 +77,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0015-3sum/) | Medium |
+| [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MdSufiyanAzmat/DSA/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sliding Window
@@ -90,6 +94,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
 | [0456-132-pattern](https://github.com/MdSufiyanAzmat/DSA/tree/main/0456-132-pattern/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MdSufiyanAzmat/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -139,6 +144,7 @@ Just for practice!
 | [0066-plus-one](https://github.com/MdSufiyanAzmat/DSA/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdSufiyanAzmat/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
