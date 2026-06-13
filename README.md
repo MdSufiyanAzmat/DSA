@@ -58,6 +58,7 @@ Just for practice!
 | [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
 | [0289-game-of-life](https://github.com/MdSufiyanAzmat/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0456-132-pattern](https://github.com/MdSufiyanAzmat/DSA/tree/main/0456-132-pattern/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/MdSufiyanAzmat/DSA/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MdSufiyanAzmat/DSA/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MdSufiyanAzmat/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -103,12 +104,14 @@ Just for practice!
 | [0209-minimum-size-subarray-sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
 | [0456-132-pattern](https://github.com/MdSufiyanAzmat/DSA/tree/main/0456-132-pattern/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/MdSufiyanAzmat/DSA/tree/main/0528-random-pick-with-weight/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MdSufiyanAzmat/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/MdSufiyanAzmat/DSA/tree/main/0528-random-pick-with-weight/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MdSufiyanAzmat/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -152,6 +155,7 @@ Just for practice!
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdSufiyanAzmat/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
+| [0528-random-pick-with-weight](https://github.com/MdSufiyanAzmat/DSA/tree/main/0528-random-pick-with-weight/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -225,4 +229,8 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MdSufiyanAzmat/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0528-random-pick-with-weight](https://github.com/MdSufiyanAzmat/DSA/tree/main/0528-random-pick-with-weight/) | Medium |
 <!---LeetCode Topics End-->
