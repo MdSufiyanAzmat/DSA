@@ -79,6 +79,7 @@ Just for practice!
 | [0086-partition-list](https://github.com/MdSufiyanAzmat/DSA/tree/main/0086-partition-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/MdSufiyanAzmat/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0202-happy-number/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MdSufiyanAzmat/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -144,6 +145,7 @@ Just for practice!
 | [0092-reverse-linked-list-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/MdSufiyanAzmat/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/MdSufiyanAzmat/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MdSufiyanAzmat/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +176,7 @@ Just for practice!
 | [0316-remove-duplicate-letters](https://github.com/MdSufiyanAzmat/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0394-decode-string/) | Medium |
 | [0456-132-pattern](https://github.com/MdSufiyanAzmat/DSA/tree/main/0456-132-pattern/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MdSufiyanAzmat/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
