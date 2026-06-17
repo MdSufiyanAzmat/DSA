@@ -13,25 +13,14 @@
 class Solution {
 public:
     int minDepth(TreeNode* root) {
-        queue<TreeNode*> q;
-        q.push(root);
-        int ans = 0;
-        if (root == NULL)
-            return ans;
-        while (!q.empty()) {
-            int s = q.size();
-            ans++;
-            for (int i = 0; i < s; i++) {
-                TreeNode* node = q.front();
-                q.pop();
-                if (node->left == NULL && node->right == NULL)
-                    return ans;
-                if (node->left != NULL)
-                    q.push(node->left);
-                if (node->right != NULL)
-                    q.push(node->right);
-            }
-        }
-        return ans;
+       if(root == NULL){
+        return 0;
+       }
+       int left = minDepth(root->left);
+       int right = minDepth(root->right);
+       if(!left || !right){
+                return max(left, right) + 1;
+       }
+       return min(left, right) + 1;
     }
 };
