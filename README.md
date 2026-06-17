@@ -143,6 +143,7 @@ Just for practice!
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/MdSufiyanAzmat/DSA/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/MdSufiyanAzmat/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/MdSufiyanAzmat/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MdSufiyanAzmat/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -233,6 +234,7 @@ Just for practice!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MdSufiyanAzmat/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MdSufiyanAzmat/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MdSufiyanAzmat/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
@@ -242,6 +244,7 @@ Just for practice!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MdSufiyanAzmat/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MdSufiyanAzmat/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MdSufiyanAzmat/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Randomized
@@ -255,10 +258,12 @@ Just for practice!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MdSufiyanAzmat/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MdSufiyanAzmat/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MdSufiyanAzmat/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
