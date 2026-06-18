@@ -51,6 +51,7 @@ Just for practice!
 | [0054-spiral-matrix](https://github.com/MdSufiyanAzmat/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/MdSufiyanAzmat/DSA/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdSufiyanAzmat/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -120,6 +121,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +238,7 @@ Just for practice!
 | [0102-binary-tree-level-order-traversal](https://github.com/MdSufiyanAzmat/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MdSufiyanAzmat/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MdSufiyanAzmat/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -251,6 +254,7 @@ Just for practice!
 | [0102-binary-tree-level-order-traversal](https://github.com/MdSufiyanAzmat/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MdSufiyanAzmat/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MdSufiyanAzmat/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -287,4 +291,8 @@ Just for practice!
 | [0199-binary-tree-right-side-view](https://github.com/MdSufiyanAzmat/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
