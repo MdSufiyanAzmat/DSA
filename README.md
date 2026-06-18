@@ -40,6 +40,7 @@ Just for practice!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 ## Array
@@ -106,6 +107,7 @@ Just for practice!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MdSufiyanAzmat/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/MdSufiyanAzmat/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
 | [0456-132-pattern](https://github.com/MdSufiyanAzmat/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/MdSufiyanAzmat/DSA/tree/main/0528-random-pick-with-weight/) | Medium |
@@ -244,6 +246,7 @@ Just for practice!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MdSufiyanAzmat/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MdSufiyanAzmat/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0257-binary-tree-paths](https://github.com/MdSufiyanAzmat/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -261,6 +264,7 @@ Just for practice!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MdSufiyanAzmat/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MdSufiyanAzmat/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0257-binary-tree-paths](https://github.com/MdSufiyanAzmat/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
