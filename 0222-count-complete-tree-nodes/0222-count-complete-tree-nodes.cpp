@@ -12,20 +12,12 @@
 class Solution {
 public:
     int countNodes(TreeNode* root) {
-       queue<TreeNode*> q;
-       q.push(root);
-       int ans = 0;
-       if(root == NULL) return ans;
-       while(!q.empty()){
-        int s = q.size();
-        for(int i=0; i<s; i++){
-            TreeNode* node = q.front();
-            ans++;
-            q.pop();
-            if(node ->left) q.push(node->left);
-            if(node->right) q.push(node->right);
-        }
+        if(root == NULL) return 0;
+       if(root -> left == NULL && root -> right == NULL){
+        return 1;
        }
-       return ans;
+       int leftCall = countNodes(root -> left);
+       int rightCall = countNodes(root -> right);
+       return leftCall + rightCall + 1;
     }
 };
