@@ -231,6 +231,7 @@ Just for practice!
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/MdSufiyanAzmat/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MdSufiyanAzmat/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
@@ -244,6 +245,7 @@ Just for practice!
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/MdSufiyanAzmat/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MdSufiyanAzmat/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
@@ -261,6 +263,7 @@ Just for practice!
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/MdSufiyanAzmat/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MdSufiyanAzmat/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
@@ -273,6 +276,7 @@ Just for practice!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0100-same-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MdSufiyanAzmat/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
