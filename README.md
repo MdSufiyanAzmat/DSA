@@ -247,6 +247,7 @@ Just for practice!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MdSufiyanAzmat/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/MdSufiyanAzmat/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -265,6 +266,7 @@ Just for practice!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MdSufiyanAzmat/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/MdSufiyanAzmat/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -296,6 +298,7 @@ Just for practice!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MdSufiyanAzmat/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MdSufiyanAzmat/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/MdSufiyanAzmat/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
