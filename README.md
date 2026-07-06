@@ -67,6 +67,7 @@ Just for practice!
 | [0950-reveal-cards-in-increasing-order](https://github.com/MdSufiyanAzmat/DSA/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MdSufiyanAzmat/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/MdSufiyanAzmat/DSA/tree/main/1014-best-sightseeing-pair/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/MdSufiyanAzmat/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1499-max-value-of-equation](https://github.com/MdSufiyanAzmat/DSA/tree/main/1499-max-value-of-equation/) | Hard |
 | [1696-jump-game-vi](https://github.com/MdSufiyanAzmat/DSA/tree/main/1696-jump-game-vi/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MdSufiyanAzmat/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -90,6 +91,7 @@ Just for practice!
 | [0015-3sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0015-3sum/) | Medium |
 | [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MdSufiyanAzmat/DSA/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/MdSufiyanAzmat/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
