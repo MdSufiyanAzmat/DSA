@@ -56,6 +56,7 @@ Just for practice!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdSufiyanAzmat/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0200-number-of-islands](https://github.com/MdSufiyanAzmat/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/MdSufiyanAzmat/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
@@ -132,6 +133,7 @@ Just for practice!
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/MdSufiyanAzmat/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0200-number-of-islands](https://github.com/MdSufiyanAzmat/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0289-game-of-life](https://github.com/MdSufiyanAzmat/DSA/tree/main/0289-game-of-life/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -289,6 +291,7 @@ Just for practice!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MdSufiyanAzmat/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MdSufiyanAzmat/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/MdSufiyanAzmat/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Depth-First Search
@@ -300,6 +303,7 @@ Just for practice!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MdSufiyanAzmat/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MdSufiyanAzmat/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MdSufiyanAzmat/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/MdSufiyanAzmat/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/MdSufiyanAzmat/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -312,4 +316,8 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/MdSufiyanAzmat/DSA/tree/main/0257-binary-tree-paths/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/MdSufiyanAzmat/DSA/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
