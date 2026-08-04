@@ -16,6 +16,7 @@ Just for practice!
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MdSufiyanAzmat/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3731-find-missing-elements](https://github.com/MdSufiyanAzmat/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ Just for practice!
 | [2196-create-binary-tree-from-descriptions](https://github.com/MdSufiyanAzmat/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/MdSufiyanAzmat/DSA/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3731-find-missing-elements](https://github.com/MdSufiyanAzmat/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ Just for practice!
 | [0950-reveal-cards-in-increasing-order](https://github.com/MdSufiyanAzmat/DSA/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/MdSufiyanAzmat/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3731-find-missing-elements](https://github.com/MdSufiyanAzmat/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
