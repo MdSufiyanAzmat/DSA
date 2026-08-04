@@ -68,6 +68,7 @@ Just for practice!
 | [0643-maximum-average-subarray-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/MdSufiyanAzmat/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MdSufiyanAzmat/DSA/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0994-rotting-oranges](https://github.com/MdSufiyanAzmat/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MdSufiyanAzmat/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/MdSufiyanAzmat/DSA/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/MdSufiyanAzmat/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -139,6 +140,7 @@ Just for practice!
 | [0073-set-matrix-zeroes](https://github.com/MdSufiyanAzmat/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/MdSufiyanAzmat/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0289-game-of-life](https://github.com/MdSufiyanAzmat/DSA/tree/main/0289-game-of-life/) | Medium |
+| [0994-rotting-oranges](https://github.com/MdSufiyanAzmat/DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +300,7 @@ Just for practice!
 | [0200-number-of-islands](https://github.com/MdSufiyanAzmat/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/MdSufiyanAzmat/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0994-rotting-oranges](https://github.com/MdSufiyanAzmat/DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
