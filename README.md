@@ -21,6 +21,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MdSufiyanAzmat/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/MdSufiyanAzmat/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0257-binary-tree-paths](https://github.com/MdSufiyanAzmat/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/MdSufiyanAzmat/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0394-decode-string/) | Medium |
@@ -189,6 +190,7 @@ Just for practice!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/MdSufiyanAzmat/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdSufiyanAzmat/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/MdSufiyanAzmat/DSA/tree/main/0155-min-stack/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/MdSufiyanAzmat/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -333,4 +335,8 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0796-rotate-string/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/MdSufiyanAzmat/DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
