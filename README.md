@@ -30,6 +30,7 @@ Just for practice!
 | [0796-rotate-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/MdSufiyanAzmat/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/MdSufiyanAzmat/DSA/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
