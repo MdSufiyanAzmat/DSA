@@ -40,6 +40,7 @@ Just for practice!
 | [1014-best-sightseeing-pair](https://github.com/MdSufiyanAzmat/DSA/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1696-jump-game-vi](https://github.com/MdSufiyanAzmat/DSA/tree/main/1696-jump-game-vi/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/MdSufiyanAzmat/DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ Just for practice!
 | [1696-jump-game-vi](https://github.com/MdSufiyanAzmat/DSA/tree/main/1696-jump-game-vi/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MdSufiyanAzmat/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/MdSufiyanAzmat/DSA/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/MdSufiyanAzmat/DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/MdSufiyanAzmat/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
@@ -99,6 +101,7 @@ Just for practice!
 | [0268-missing-number](https://github.com/MdSufiyanAzmat/DSA/tree/main/0268-missing-number/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MdSufiyanAzmat/DSA/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/MdSufiyanAzmat/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/MdSufiyanAzmat/DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/MdSufiyanAzmat/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Sliding Window
