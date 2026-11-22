@@ -29,6 +29,7 @@ Just for practice!
 | [0657-robot-return-to-origin](https://github.com/MdSufiyanAzmat/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/MdSufiyanAzmat/DSA/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/MdSufiyanAzmat/DSA/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/MdSufiyanAzmat/DSA/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/MdSufiyanAzmat/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -41,6 +42,7 @@ Just for practice!
 | [0152-maximum-product-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/MdSufiyanAzmat/DSA/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/MdSufiyanAzmat/DSA/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1696-jump-game-vi](https://github.com/MdSufiyanAzmat/DSA/tree/main/1696-jump-game-vi/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/MdSufiyanAzmat/DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MdSufiyanAzmat/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -202,6 +204,7 @@ Just for practice!
 | [0316-remove-duplicate-letters](https://github.com/MdSufiyanAzmat/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0394-decode-string/) | Medium |
 | [0456-132-pattern](https://github.com/MdSufiyanAzmat/DSA/tree/main/0456-132-pattern/) | Medium |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/MdSufiyanAzmat/DSA/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MdSufiyanAzmat/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
