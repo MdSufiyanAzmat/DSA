@@ -12,9 +12,8 @@ public:
                 }
                 if (num <= prev) return false;
                 prev = num;
-            } else {
+            } 
                 i++;
-            }
         }
         return true;
     }
