@@ -22,6 +22,7 @@ Just for practice!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MdSufiyanAzmat/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/MdSufiyanAzmat/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0072-edit-distance](https://github.com/MdSufiyanAzmat/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0257-binary-tree-paths](https://github.com/MdSufiyanAzmat/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/MdSufiyanAzmat/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/0394-decode-string/) | Medium |
@@ -39,6 +40,7 @@ Just for practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0072-edit-distance](https://github.com/MdSufiyanAzmat/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/MdSufiyanAzmat/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/MdSufiyanAzmat/DSA/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MdSufiyanAzmat/DSA/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
